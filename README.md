@@ -162,7 +162,7 @@ Seri köprü (opsiyonel):
 ## Katkı ve lisans
 
 - İyileştirme/PR’ler memnuniyetle karşılanır. Önemli değişiklikler için önce tartışma açın.
-- Lisans: (Lütfen bir lisans seçin ve `LICENSE` dosyası ekleyin; öneri: MIT/Apache-2.0)
+- Lisans: Apache License 2.0 (Apache-2.0)
 
 ## Hızlı başlatma özeti
 
