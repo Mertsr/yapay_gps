@@ -8,6 +8,9 @@ ROS 2 tabanlı “sahte GPS” (NavSatFix) üretim paketi. Amaç, gerçek GNSS 
 
 ## İçerik
 
+![WhatsApp Image 2026-02-06 at 01 39 57](https://github.com/user-attachments/assets/c4d6135a-289f-4bf3-b1d4-53781fbd320e)
+
+
 ```
 fake_gps/
 ├─ CMakeLists.txt
