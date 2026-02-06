@@ -1,4 +1,4 @@
-# yapay_gps (fake_gps)
+# yapay_gps
 
 ROS 2 tabanlı “sahte GPS” (NavSatFix) üretim paketi. Amaç, gerçek GNSS olmadan (yalnızca odometri + IMU ile) tutarlı bir NavSatFix akışı üretmek ve robot_localization ile GPS’siz bir yerelleştirme kurgusunda referans olarak kullanmaktır. Paket aynı zamanda tekerlek odometrisini sadeleştiren bir dönüştürücü ve seri port köprü scriptleri içerir.
 
